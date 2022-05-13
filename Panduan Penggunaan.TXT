@@ -1,0 +1,41 @@
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+====================================================================
+ Nama Software : KhanzaHMS update 06/03/2015
+ Data Base     : MySQL Server
+
+ 
+ >> Programer <<
+	
+	Nama	: Dewi Ekawati
+	Email	: zahratusshita8@gmail.com, khanza_media@yahoo.com
+	
+	Nama	: Windiarto Nugroho
+	Email	: akhi_tangguh@yahoo.com, khanza_media@yahoo.com
+
+
+ >> House Software <<
+	Nama	: Khanza.Soft Media
+	Email	: khanza_media@yahoo.com, khanzasoftmedia@gmail.com
+	No.Tlp	: 085296559963, 08562675039
+
+ >> Instalasi SOftware
+        - Install dulu JRE 8 di linux
+        - Install xamp/Lampp untuk linux
+    	- Import Database sik.sql bisa menggunakan 
+    	  mysqlworkbranch(diinstall dulu) untuk memudahkan
+    	  bisa di download di http://dev.mysql.com/downloads/workbench/
+        - Taruh folder webapps ke dalam 
+          lampp/htdocs.
+        - Klik 2 x file louncher Aplikasi(ubah dulu hak akses jadi 777), 
+          Untuk menjalankan software KhanzaHMS	
+		- Klik 2 x file louncher AntrianPoli(ubah dulu hak akses jadi 777), 
+          Untuk menjalankan Software Antrian Poli
+        - Klik 2 x file louncher AntrianLoket(ubah dulu hak akses jadi 777), 
+          Untuk menjalankan Software Antrian Loket
+        - Pengaturan Client Server ada di database.xml, silahkan ganti 
+          localhost dengan IP Server, dengan terlebih dahulu mengatur
+          privilages di database server
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+====================================================================
